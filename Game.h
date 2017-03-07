@@ -190,9 +190,9 @@ public:
 			}
 
 		if (matrix[2][2] == 0)
-			std::cout << "--- Lehetseges megoldas! ---" << std::endl;
+			std::cout << "--- Megoldas! ---" << std::endl;
 		
-		
+			
 	}
 
 
